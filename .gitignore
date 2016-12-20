@@ -1,0 +1,8 @@
+latex.out/
+
+# vim & emacs
+*~
+*.swp
+*.swo
+\#*\#
+.\#*
